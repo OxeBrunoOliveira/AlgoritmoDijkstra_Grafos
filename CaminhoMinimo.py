@@ -28,4 +28,4 @@ grafo = {
 ponto_inical = 'CIDADE A'
 ponto_final = 'CIDADE D'
 distancia = dijkstra(grafo, ponto_inical, ponto_final)
-print(f'A distancia entre a {ponto_inical} até a {ponto_final} é igal a {distancia}.')
+print(f'A distancia entre a {ponto_inical} até a {ponto_final} é igual a {distancia}.')
